@@ -21,4 +21,4 @@ To run this project, you need a web browser.
 
 ### Installation
 
-   git clone https://github.com/yourusername/basic-todo-web-app.git
+   git clone https://github.com/Mujeeburrehman4596/Web-Development-and-Designing-Osis-info/tree/main/Basic-To-Do-web_app
